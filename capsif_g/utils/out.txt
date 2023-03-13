@@ -1,0 +1,1372 @@
+locking the file
+unlocking the file
+4P6A_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+2 alpha-D-Manp
+2 alpha-D-Manp-
+2 alpha-D-Manp-
+2 alpha-D-Manp
+2 alpha-D-Manp-
+2 alpha-D-Manp-
+2 alpha-D-Manp
+2 alpha-D-Manp-
+2 alpha-D-Manp-
+locking the file
+unlocking the file
+3W26_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+6 beta-D-Xylp
+6 beta-D-Xylp-
+6 beta-D-Xylp-
+locking the file
+unlocking the file
+5ZF3_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+6 beta-D-Xylp
+6 beta-D-Xylp-
+6 beta-D-Xylp-
+locking the file
+unlocking the file
+1RQ5_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 beta-D-Glcp
+0 beta-D-Glcp-
+0 beta-D-Glcp-
+0 beta-D-Glcp-
+locking the file
+unlocking the file
+5IYW_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 alpha-D-Glcp
+5 alpha-L-Fucp-
+1 beta-D-Galp-
+0 alpha-D-Glcp
+5 alpha-L-Fucp-
+1 beta-D-Galp-
+locking the file
+unlocking the file
+6DTQ_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 alpha-D-Glcp
+0 alpha-D-Glcp-
+locking the file
+unlocking the file
+5WEY_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+2 alpha-D-Manp
+2 alpha-D-Manp-
+locking the file
+unlocking the file
+5OYE_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 beta-D-Glcp
+0 beta-D-Glcp-
+0 beta-D-Glcp-
+0 beta-D-Glcp-
+6 alpha-D-Xylp-
+6 alpha-D-Xylp-
+1 beta-D-Galp-
+locking the file
+unlocking the file
+2EAL_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+1 beta-D-Galp
+4 beta-D-GalpNAc-
+4 beta-D-GalpNAc-
+locking the file
+unlocking the file
+2GGU_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 alpha-D-Glcp
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+locking the file
+unlocking the file
+2WMI_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+1 beta-D-Galp
+5 alpha-L-Fucp-
+4 alpha-D-GalpNAc-
+locking the file
+unlocking the file
+2YFZ_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 beta-D-Glcp
+0 beta-D-Glcp-
+0 beta-D-Glcp-
+6 alpha-D-Xylp-
+1 beta-D-Galp-
+locking the file
+unlocking the file
+4H1G_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 alpha-D-Glcp
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+locking the file
+unlocking the file
+4P7R_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+3 beta-D-GlcpNAc
+3 beta-D-GlcpNAc-
+3 beta-D-GlcpNAc-
+3 beta-D-GlcpNAc-
+locking the file
+unlocking the file
+6E57_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 beta-D-Glcp
+0 beta-D-Glcp-
+0 beta-D-Glcp-
+0 beta-D-Glcp-
+0 beta-D-Glcp-
+locking the file
+unlocking the file
+4LYQ_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+2 alpha-D-Manp
+2 beta-D-Manp-
+2 beta-D-Manp-
+locking the file
+unlocking the file
+3WH6_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 alpha-D-Glcp
+locking the file
+unlocking the file
+2XQO_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 beta-D-Glcp
+0 beta-D-Glcp-
+0 beta-D-Glcp-
+0 beta-D-Glcp
+0 beta-D-Glcp-
+0 beta-D-Glcp-
+locking the file
+unlocking the file
+3H4Z_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 alpha-D-Glcp
+0 alpha-D-Glcp-
+locking the file
+unlocking the file
+2X42_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 alpha-D-Glcp
+locking the file
+unlocking the file
+1GXO_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+8 alpha-D-GalpA
+8 alpha-D-GalpA-
+8 alpha-D-GalpA-
+locking the file
+unlocking the file
+6M77_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+4 beta-D-GalpNAc
+locking the file
+unlocking the file
+3VXC_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+6 beta-D-Xylp
+6 beta-D-Xylp-
+locking the file
+unlocking the file
+6HZE_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+8 beta-D-GalpA
+locking the file
+unlocking the file
+3WLH_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 alpha-D-Glcp
+0 alpha-D-Glcp
+locking the file
+unlocking the file
+3QHM_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 alpha-D-Glcp
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+locking the file
+unlocking the file
+6BZC_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 alpha-D-Glcp
+locking the file
+unlocking the file
+1YOE_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+10 alpha-D-Ribf
+locking the file
+unlocking the file
+3SIT_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 alpha-D-Glcp
+1 beta-D-Galp-
+9 alpha-NeupAc-
+locking the file
+unlocking the file
+1ODZ_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+2 alpha-D-Manp
+2 beta-D-Manp-
+locking the file
+unlocking the file
+6FFL_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 alpha-D-Glcp
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+locking the file
+unlocking the file
+4QSZ_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 alpha-D-Glcp
+0 alpha-D-Glcp
+locking the file
+unlocking the file
+5XG5_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+4 alpha-D-GalpNAc
+4 alpha-D-GalpNAc
+4 alpha-D-GalpNAc
+locking the file
+unlocking the file
+5A95_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 alpha-D-Glcp
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+locking the file
+unlocking the file
+5FKS_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 beta-D-Glcp
+0 beta-D-Glcp-
+0 beta-D-Glcp-
+0 beta-D-Glcp-
+6 alpha-D-Xylp-
+6 alpha-D-Xylp-
+1 beta-D-Galp-
+0 beta-D-Glcp
+0 beta-D-Glcp-
+0 beta-D-Glcp-
+0 beta-D-Glcp-
+6 alpha-D-Xylp-
+6 alpha-D-Xylp-
+1 beta-D-Galp-
+6 alpha-D-Xylp-
+1 beta-D-Galp-
+locking the file
+unlocking the file
+3K00_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 alpha-D-Glcp
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+locking the file
+unlocking the file
+3UJQ_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+1 beta-D-Galp
+locking the file
+unlocking the file
+4PVI_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+6 beta-D-Xylp
+6 beta-D-Xylp-
+6 beta-D-Xylp-
+locking the file
+unlocking the file
+5IUC_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+4 alpha-D-GalpNAc
+1 beta-D-Galp-
+9 alpha-NeupAc-
+locking the file
+unlocking the file
+2JEQ_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 beta-D-Glcp
+0 beta-D-Glcp-
+0 beta-D-Glcp-
+0 beta-D-Glcp-
+6 alpha-D-Xylp-
+6 alpha-D-Xylp-
+1 beta-D-Galp-
+locking the file
+unlocking the file
+5C2N_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+3 beta-D-GlcpNAc
+3 beta-D-GlcpNAc
+locking the file
+unlocking the file
+1C3M_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+2 alpha-D-Manp
+2 alpha-D-Manp-
+locking the file
+unlocking the file
+1QFO_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 alpha-D-Glcp
+1 beta-D-Galp-
+9 alpha-NeupAc-
+locking the file
+unlocking the file
+3ACI_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 beta-D-Glcp
+0 beta-D-Glcp-
+0 beta-D-Glcp-
+0 beta-D-Glcp-
+0 beta-D-Glcp-
+locking the file
+unlocking the file
+1BAG_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 beta-D-Glcp
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+locking the file
+unlocking the file
+4DXG_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+3 alpha-D-GlcpNAc
+5 alpha-L-Fucp-
+1 beta-D-Galp-
+9 alpha-NeupAc-
+locking the file
+unlocking the file
+3AIH_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+2 beta-D-Manp
+2 alpha-D-Manp-
+2 alpha-D-Manp-
+locking the file
+unlocking the file
+4G9N_2.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+4 beta-D-GalpNAc
+locking the file
+unlocking the file
+1YTV_2.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 alpha-D-Glcp
+0 alpha-D-Glcp-
+locking the file
+unlocking the file
+2ZX4_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 beta-D-Glcp
+1 beta-D-Galp-
+1 alpha-D-Galp-
+0 beta-D-Glcp
+1 beta-D-Galp-
+1 alpha-D-Galp-
+locking the file
+unlocking the file
+1J84_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 beta-D-Glcp
+0 beta-D-Glcp-
+0 beta-D-Glcp-
+0 beta-D-Glcp-
+locking the file
+unlocking the file
+5OFK_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+6 beta-D-Xylp
+6 beta-D-Xylp-
+6 beta-D-Xylp-
+6 beta-D-Xylp-
+6 beta-D-Xylp-
+6 beta-D-Xylp-
+6 beta-D-Xylp-
+locking the file
+unlocking the file
+1CIW_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+3 alpha-D-GlcpNAc
+1 beta-D-Galp-
+locking the file
+unlocking the file
+5LN8_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+1 beta-D-Galp
+locking the file
+unlocking the file
+3K8L_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 beta-D-Glcp
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+0 alpha-D-Glcp
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+0 alpha-D-Glcp
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+locking the file
+unlocking the file
+3VGM_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 beta-D-Glcp
+locking the file
+unlocking the file
+1SLA_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+3 beta-D-GlcpNAc
+2 beta-D-Manp-
+2 alpha-D-Manp-
+3 beta-D-GlcpNAc-
+1 beta-D-Galp-
+2 alpha-D-Manp-
+3 beta-D-GlcpNAc-
+1 beta-D-Galp-
+locking the file
+unlocking the file
+4Q52_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 beta-D-Glcp
+locking the file
+unlocking the file
+4FCH_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 alpha-D-Glcp
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+locking the file
+unlocking the file
+1X1V_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+2 alpha-D-Manp
+2 alpha-D-Manp
+2 alpha-D-Manp
+2 alpha-D-Manp
+2 alpha-D-Manp
+locking the file
+unlocking the file
+4X05_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+1 alpha-D-Galp
+5 alpha-L-Fucp-
+1 alpha-D-Galp-
+1 alpha-D-Galp
+5 alpha-L-Fucp-
+1 alpha-D-Galp-
+locking the file
+unlocking the file
+6BGC_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 beta-D-Glcp
+locking the file
+unlocking the file
+6EON_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+1 alpha-D-Galp
+locking the file
+unlocking the file
+6K0U_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 alpha-D-Glcp
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+0 alpha-D-Glcp
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+locking the file
+unlocking the file
+5BX5_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 beta-D-Glcp
+locking the file
+unlocking the file
+6BJQ_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+7 beta-D-GlcpA
+locking the file
+unlocking the file
+6OHE_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+3 beta-D-GlcpNAc
+5 alpha-L-Fucp-
+locking the file
+unlocking the file
+6GL0_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 alpha-D-Glcp
+0 beta-D-Glcp-
+0 beta-D-Glcp-
+locking the file
+unlocking the file
+5A59_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+4 alpha-D-GalpNAc
+1 beta-D-Galp-
+locking the file
+unlocking the file
+4YHG_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 beta-D-Glcp
+0 beta-D-Glcp-
+0 beta-D-Glcp-
+locking the file
+unlocking the file
+1DBP_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+10 alpha-D-Ribp
+locking the file
+unlocking the file
+5T55_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+1 beta-D-Galp
+4 beta-D-GalpNAc-
+locking the file
+unlocking the file
+1YYN_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 beta-D-Glcp
+1 alpha-D-Galp-
+9 alpha-NeupAc-
+9 alpha-NeupAc-
+locking the file
+unlocking the file
+154L_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+3 beta-D-GlcpNAc
+3 beta-D-GlcpNAc-
+3 beta-D-GlcpNAc-
+locking the file
+unlocking the file
+1MW0_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 alpha-D-Glcp
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+0 alpha-D-Glcp
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+0 alpha-D-Glcp
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+0 beta-D-Glcp-
+locking the file
+unlocking the file
+6ER3_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+1 beta-D-Galp
+9 alpha-NeupAc-
+1 beta-D-Galp
+9 alpha-NeupAc-
+locking the file
+unlocking the file
+1TYX_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+10 alpha-L-Rhap
+2 alpha-D-Manp-
+1 alpha-D-Galp-
+10 alpha-L-Rhap-
+2 alpha-D-Manp-
+1 alpha-D-Galp-
+10 alpha-D-Abep-
+10 alpha-D-Abep-
+locking the file
+unlocking the file
+3M3Q_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 beta-D-Glcp
+1 beta-D-Galp-
+9 alpha-NeupAc-
+4 beta-D-GalpNAc-
+1 beta-D-Galp-
+locking the file
+unlocking the file
+3OB8_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+1 beta-D-Galp
+locking the file
+unlocking the file
+1LZR_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+3 beta-D-GlcpNAc
+3 beta-D-GlcpNAc-
+3 beta-D-GlcpNAc-
+3 beta-D-GlcpNAc-
+locking the file
+unlocking the file
+5ZVC_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+3 beta-D-GlcpNAc
+1 beta-D-Galp-
+5 alpha-L-Fucp-
+3 beta-D-GlcpNAc
+1 beta-D-Galp-
+5 alpha-L-Fucp-
+locking the file
+unlocking the file
+2WAB_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 beta-D-Glcp
+0 beta-D-Glcp-
+0 beta-D-Glcp-
+0 beta-D-Glcp-
+0 beta-D-Glcp-
+locking the file
+unlocking the file
+3AGV_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+2 alpha-D-Manp
+2 alpha-D-Manp-
+3 alpha-D-GlcpNAc-
+1 alpha-D-Galp-
+locking the file
+unlocking the file
+2UVJ_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+8 alpha-D-GalpA
+8 alpha-D-GalpA-
+8 alpha-D-GalpA-
+locking the file
+unlocking the file
+7BSN_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+2 alpha-D-Manp
+2 alpha-D-Manp-
+locking the file
+unlocking the file
+4J0L_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+3 beta-D-GlcpNAc
+3 beta-D-GlcpNAc-
+3 beta-D-GlcpNAc-
+3 beta-D-GlcpNAc-
+3 beta-D-GlcpNAc
+3 beta-D-GlcpNAc-
+3 beta-D-GlcpNAc-
+3 beta-D-GlcpNAc-
+locking the file
+unlocking the file
+4U0W_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+3 alpha-D-GlcpNAc
+locking the file
+unlocking the file
+4O8P_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+6 beta-D-Xylp
+6 beta-D-Xylp-
+6 beta-D-Xylp-
+6 beta-D-Xylp-
+locking the file
+unlocking the file
+6B8K_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+10 beta-D-Fruf
+1 beta-D-Galp-
+locking the file
+unlocking the file
+4X04_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+7 beta-D-GlcpA
+7 beta-D-GlcpA
+locking the file
+unlocking the file
+2Y6L_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+6 beta-D-Xylp
+6 beta-D-Xylp-
+6 beta-D-Xylp-
+6 beta-D-Xylp-
+6 beta-D-Xylp-
+locking the file
+unlocking the file
+1TEI_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+2 alpha-D-Manp
+2 alpha-D-Manp-
+3 beta-D-GlcpNAc-
+2 alpha-D-Manp-
+3 beta-D-GlcpNAc-
+locking the file
+unlocking the file
+4RDL_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+3 alpha-D-GlcpNAc
+5 alpha-L-Fucp-
+1 beta-D-Galp-
+5 alpha-L-Fucp-
+3 alpha-D-GlcpNAc
+5 alpha-L-Fucp-
+1 beta-D-Galp-
+5 alpha-L-Fucp-
+locking the file
+unlocking the file
+4QVH_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 alpha-D-Glcp
+0 alpha-D-Glcp-
+locking the file
+unlocking the file
+2XON_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+1 beta-D-Galp
+1 beta-D-Galp-
+1 beta-D-Galp-
+locking the file
+unlocking the file
+2C7F_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+10 alpha-L-Araf
+10 alpha-L-Araf-
+10 alpha-L-Araf-
+locking the file
+unlocking the file
+5M28_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 alpha-D-Glcp
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+locking the file
+unlocking the file
+3C7F_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+6 beta-D-Xylp
+6 beta-D-Xylp-
+6 beta-D-Xylp-
+locking the file
+unlocking the file
+6R31_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 beta-D-Glcp
+0 beta-D-Glcp-
+0 beta-D-Glcp-
+0 beta-D-Glcp-
+0 beta-D-Glcp-
+0 beta-D-Glcp-
+locking the file
+unlocking the file
+4EXK_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 alpha-D-Glcp
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+locking the file
+unlocking the file
+4BL8_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 alpha-D-Glcp
+0 alpha-D-Glcp-
+locking the file
+unlocking the file
+1IS3_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 beta-D-Glcp
+1 beta-D-Galp-
+locking the file
+unlocking the file
+4HW8_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 alpha-D-Glcp
+0 alpha-D-Glcp-
+locking the file
+unlocking the file
+4HZ7_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 beta-D-Glcp
+locking the file
+unlocking the file
+3T7O_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 alpha-D-Glcp
+locking the file
+unlocking the file
+4BQI_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 alpha-D-Glcp
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+locking the file
+unlocking the file
+2YHW_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+10 alpha-D-ManpNAc
+locking the file
+unlocking the file
+2VU9_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 beta-D-Glcp
+1 beta-D-Galp-
+9 alpha-NeupAc-
+4 beta-D-GalpNAc-
+1 beta-D-Galp-
+9 alpha-NeupAc-
+locking the file
+unlocking the file
+4AYP_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+2 alpha-D-Manp
+locking the file
+unlocking the file
+5NC1_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+3 beta-D-GlcpNAc
+3 beta-D-GlcpNAc
+3 beta-D-GlcpNAc
+locking the file
+unlocking the file
+1SL6_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+3 alpha-D-GlcpNAc
+5 alpha-L-Fucp-
+1 beta-D-Galp-
+locking the file
+unlocking the file
+3EHU_2.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 alpha-D-Glcp
+0 alpha-D-Glcp-
+locking the file
+unlocking the file
+4J3W_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 alpha-D-Glcp
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+locking the file
+unlocking the file
+2WCU_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+5 alpha-L-Fucp
+locking the file
+unlocking the file
+5JPV_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 alpha-D-Glcp
+1 beta-D-Galp-
+locking the file
+unlocking the file
+5GNY_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 beta-D-Glcp
+locking the file
+unlocking the file
+5WQU_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 alpha-D-Glcp
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+locking the file
+unlocking the file
+3C9E_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+7 beta-D-GlcpA
+4 beta-D-GalpNAc-
+7 beta-D-GlcpA-
+4 beta-D-GalpNAc-
+7 beta-D-GlcpA-
+4 beta-D-GalpNAc-
+locking the file
+unlocking the file
+1VB9_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 alpha-D-Glcp
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+locking the file
+unlocking the file
+5ZHO_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+1 alpha-D-Galp
+5 alpha-L-Fucp-
+4 alpha-D-GalpNAc-
+locking the file
+unlocking the file
+4UCF_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+1 alpha-D-Galp
+1 alpha-D-Galp
+locking the file
+unlocking the file
+4RHN_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+10 alpha-D-Ribf
+locking the file
+unlocking the file
+1KTC_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+4 beta-D-GalpNAc
+locking the file
+unlocking the file
+5GOQ_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 alpha-D-Glcp
+locking the file
+unlocking the file
+3C4M_2.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 alpha-D-Glcp
+0 alpha-D-Glcp-
+locking the file
+unlocking the file
+1OH3_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 alpha-D-Glcp
+0 beta-D-Glcp
+0 beta-D-Glcp-
+0 beta-D-Glcp-
+0 beta-D-Glcp-
+0 beta-D-Glcp-
+locking the file
+unlocking the file
+4CSD_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+5 alpha-L-Fucp
+5 alpha-L-Fucp
+5 alpha-L-Fucp
+5 alpha-L-Fucp
+5 alpha-L-Fucp
+5 alpha-L-Fucp
+locking the file
+unlocking the file
+1CEN_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 beta-D-Glcp
+0 beta-D-Glcp-
+locking the file
+unlocking the file
+3WKG_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+2 beta-D-Manp
+0 beta-D-Glcp-
+locking the file
+unlocking the file
+5UKW_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 beta-D-Glcp
+locking the file
+unlocking the file
+5GZF_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 beta-D-Glcp
+1 beta-D-Galp-
+locking the file
+unlocking the file
+4Q68_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+3 beta-D-GlcpNAc
+locking the file
+unlocking the file
+3WV6_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 beta-D-Glcp
+1 beta-D-Galp-
+0 alpha-D-Glcp
+1 beta-D-Galp-
+locking the file
+unlocking the file
+1WMZ_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+4 beta-D-GalpNAc
+locking the file
+unlocking the file
+1V7W_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+3 alpha-D-GlcpNAc
+3 beta-D-GlcpNAc
+locking the file
+unlocking the file
+2X65_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+2 alpha-D-Manp
+locking the file
+unlocking the file
+5ZJV_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+6 beta-L-Xylp
+locking the file
+unlocking the file
+1MSA_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+2 alpha-D-Manp
+2 alpha-D-Manp
+2 alpha-D-Manp
+2 alpha-D-Manp
+2 alpha-D-Manp
+2 alpha-D-Manp
+2 alpha-D-Manp
+2 alpha-D-Manp
+2 alpha-D-Manp
+locking the file
+unlocking the file
+3VU2_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 alpha-D-Glcp
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+locking the file
+unlocking the file
+3NV3_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+2 alpha-D-Manp
+3 beta-D-GlcpNAc-
+1 beta-D-Galp-
+locking the file
+unlocking the file
+5AFE_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 beta-D-Glcp
+0 beta-D-Glcp-
+0 beta-D-Glcp-
+0 beta-D-Glcp-
+6 alpha-D-Xylp-
+6 alpha-D-Xylp-
+6 alpha-D-Xylp-
+locking the file
+unlocking the file
+2VNO_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+1 beta-D-Galp
+5 alpha-L-Fucp-
+1 beta-D-Galp-
+locking the file
+unlocking the file
+4UAP_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+4 beta-D-GalpNAc
+locking the file
+unlocking the file
+5LFE_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+1 alpha-D-Galp
+5 alpha-L-Fucp-
+1 alpha-D-Galp-
+locking the file
+unlocking the file
+2Y24_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+6 beta-D-Xylp
+6 beta-D-Xylp-
+7 alpha-D-GlcpA-
+6 beta-D-Xylp-
+locking the file
+unlocking the file
+4MNP_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+9 beta-NeupAc
+locking the file
+unlocking the file
+3VV1_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+5 alpha-L-Fucp
+1 beta-D-Galp-
+locking the file
+unlocking the file
+5FR2_2.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 beta-D-Glcp
+locking the file
+unlocking the file
+4OP7_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+1 alpha-D-Galp
+5 alpha-L-Fucp-
+1 alpha-D-Galp-
+1 alpha-D-Galp
+5 alpha-L-Fucp-
+1 alpha-D-Galp-
+locking the file
+unlocking the file
+5I1T_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+3 beta-D-GlcpNAc
+3 beta-D-GlcpNAc-
+3 beta-D-GlcpNAc-
+3 beta-D-GlcpNAc
+3 beta-D-GlcpNAc-
+3 beta-D-GlcpNAc-
+locking the file
+unlocking the file
+4LBL_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 beta-D-Glcp
+1 beta-D-Galp-
+9 alpha-NeupAc-
+locking the file
+unlocking the file
+4QS7_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 beta-D-Glcp
+locking the file
+unlocking the file
+4BXC_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 alpha-D-Glcp
+locking the file
+unlocking the file
+2WN3_f.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+1 beta-D-Galp
+4 beta-D-GalpNAc-
+1 beta-D-Galp
+4 beta-D-GalpNAc-
+1 beta-D-Galp
+4 beta-D-GalpNAc-
+locking the file
+unlocking the file
+5JJ4_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 alpha-D-Glcp
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+locking the file
+unlocking the file
+2ZQN_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 beta-D-Glcp
+1 beta-D-Galp-
+0 beta-D-Glcp
+1 beta-D-Galp-
+locking the file
+unlocking the file
+4KZK_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+1 beta-D-Galp
+locking the file
+unlocking the file
+6F8N_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+3 beta-D-GlcpNAc
+3 beta-D-GlcpNAc-
+locking the file
+unlocking the file
+4NUF_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 alpha-D-Glcp
+0 alpha-D-Glcp-
+locking the file
+unlocking the file
+4WJT_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+3 beta-D-GlcpNAc
+3 beta-D-GlcpNAc
+locking the file
+unlocking the file
+4I4S_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 beta-D-Glcp
+1 beta-D-Galp-
+locking the file
+unlocking the file
+2J44_1.pdb
+PyRosetta-4 2020 [Rosetta PyRosetta4.Release.python38.ubuntu 2020.28+release.8ecab77aa50ac1301efe53641e07e09ac91fee3b 2020-07-07T16:41:06] retrieved from: http://www.pyrosetta.org
+(C) Copyright Rosetta Commons Member Institutions. Created in JHU by Sergey Lyskov and PyRosetta Team.
+0 alpha-D-Glcp
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+0 alpha-D-Glcp
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-
+0 alpha-D-Glcp-

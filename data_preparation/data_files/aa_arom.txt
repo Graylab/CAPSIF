@@ -1,0 +1,22 @@
+https://pubs.acs.org/doi/pdf/10.1021/acsanm.0c03047
+Ala 0.025
+Arg 0.750
+Asn 0.200
+Asp −0.025
+Cys 0.200
+Gln 0.300
+Glu 0.050
+Gly 0.000
+His 0.450
+Ile 0.200
+Leu 0.125
+Lys 0.100
+Met 0.325
+Phe 0.575
+Pro 0.125
+Ser 0.125
+Thr 0.075
+Trp 1.000
+Tyr 0.850
+Val 0.150
+

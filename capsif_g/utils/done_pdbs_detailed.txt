@@ -1,0 +1,1 @@
+INIT_SSS '3R4Z_1.pdb''5A6M_1.pdb''5GOQ_1.pdb'

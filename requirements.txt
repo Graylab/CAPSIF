@@ -1,0 +1,9 @@
+biopython==1.81
+colorama==0.4.6
+IO==0.0.1  
+matplotlib==3.7.0  
+numpy==1.24.2  
+pandas==1.5.3  
+pytorch==1.13.1 py3.9_cuda11.7_cudnn8.5.0_0
+tqdm==4.64.0  
+py3Dmol==1.8.0

@@ -1,0 +1,7 @@
+AlphaFoldII and ColabFoldII structures.
+unrelaxed rank 1 models only.
+
+Models generated with deafult configurations!
+Local version of AFII was not able to handle few structures because of the long sequences.
+CF is used for only those structures.
+

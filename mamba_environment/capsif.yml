@@ -1,0 +1,22 @@
+name: capsif
+channels:
+  - conda-forge
+  - nvidia
+  - pytorch
+  - https://USERNAME:PASSWORD@conda.rosettacommons.org
+  - defaults
+dependencies:
+  - python=3.9
+  - pytorch
+  - torchvision
+  - cudatoolkit=11.5
+  - biopython 
+  - pandas
+  - colorama
+  - scikit-learn 
+  - matplotlib
+  - tqdm
+  - numpy
+  - pyrosetta
+  - py3dmol
+  
