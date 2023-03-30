@@ -2,14 +2,14 @@
 
 ![Architectures](./misc/fig_repo.jpg)
 
-Official repository for [CArbohydrate-Protein Site IdentiFier](https://www.biorxiv.org/content/10.1101/2022.04.20.488972): from the paper
+Official repository for [CArbohydrate-Protein Site IdentiFier](https://www.biorxiv.org/content/10.1101/2023.03.14.531382v1.abstract): from the paper
 Structure-Based Neural Network Protein-Carbohydrate Interaction Predictions at the Residue Level
 
 Citation:
 Structure-Based Neural Network Protein-Carbohydrate Interaction Predictions at the Residue Level
 Samuel Canner, Sudhanshu Shanker, Jeffrey Gray
 
-CAPSIF is a deep learning method to determine the carbohydrate-binding residues of proteins given a protein structure. Here we present two CAPSIF models - CAPSIF:Voxel (CAPSIF:V) and CAPSIF:Graph (CAPSIF:G). Both models use convolutions, but different representations of the data. CAPSIF:V uses a voxelized representation and a 3D-[UNet](https://arxiv.org/pdf/1505.04597.pdf) architecture to decipher carbohydrate-binding residues. CAPSIF:G uses a graph representation with an [Equivariant Graph Neural Network](https://arxiv.org/pdf/2102.09844.pdf) architecture. For further details, check out our [paper on bioRxiv](https://www.biorxiv.org/content/10.1101/2022.04.20.488972).
+CAPSIF is a deep learning method to determine the carbohydrate-binding residues of proteins given a protein structure. Here we present two CAPSIF models - CAPSIF:Voxel (CAPSIF:V) and CAPSIF:Graph (CAPSIF:G). Both models use convolutions, but different representations of the data. CAPSIF:V uses a voxelized representation and a 3D-[UNet](https://arxiv.org/pdf/1505.04597.pdf) architecture to decipher carbohydrate-binding residues. CAPSIF:G uses a graph representation with an [Equivariant Graph Neural Network](https://arxiv.org/pdf/2102.09844.pdf) architecture. For further details, check out our [paper on bioRxiv](https://www.biorxiv.org/content/10.1101/2023.03.14.531382v1.abstract).
 
 ### Quick Setup Guide ###
 ```
